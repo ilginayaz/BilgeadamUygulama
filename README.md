@@ -1,1 +1,1 @@
-# BilgeadamUygulama
+# Uygulama
